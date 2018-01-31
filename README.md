@@ -3,6 +3,7 @@
 Display CSV file as a searchable, filterable, pretty HTML table. 
 Original csv-to-html code from http://derekeder.github.io/csv-to-html-table/
 See original csv-to-html setup instructions in readme-csv-to-html.md (renamed from README.md)
+Download 2017-12-20 per repo latest available commit (Latest commit 429cd43 on Jan 17, 2017)
 
 Added: 
 
