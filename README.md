@@ -4,16 +4,16 @@ Display CSV file as a searchable, filterable, pretty HTML table.
 Original csv-to-html code from http://derekeder.github.io/csv-to-html-table/
 See original csv-to-html setup instructions in readme-csv-to-html.md (renamed from README.md)
 
-Added: ::
+Added: 
 
   + csv file processing 
-  + creation of summary files
+  + creation of summary html files
 
 ## Usage
 
 #### 1. Download  distribution
 
-`` bash
+``` bash
 git clone https://github.com/pragmagrid/award-search
 ```
 The resulting directory `award-search` should be in `/var/www/html` 
